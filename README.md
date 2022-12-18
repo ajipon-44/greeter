@@ -1,6 +1,6 @@
 # greeter
 
-[Solidity と Ethereum による実践スマートコントラクト開発 Truffle Suite を用いた開発の基礎からデプロイまで](https://www.oreilly.com/library/view/solidityethereum-truffle-suite/9784873119342/)の第４章からの実装
+[Solidity と Ethereum による実践スマートコントラクト開発 Truffle Suite を用いた開発の基礎からデプロイまで](https://www.oreilly.com/library/view/solidityethereum-truffle-suite/9784873119342/)の第４章から第５章までの実装
 
 <!-- # DEMO
 
